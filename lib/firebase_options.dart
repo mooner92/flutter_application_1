@@ -67,8 +67,10 @@ class DefaultFirebaseOptions {
     messagingSenderId: '357926714471',
     projectId: 'flutter-ver1',
     storageBucket: 'flutter-ver1.appspot.com',
-    androidClientId: '357926714471-lrqvhles0p7203h9sb5lbkqjf119jl4e.apps.googleusercontent.com',
-    iosClientId: '357926714471-v05o1gd30n2vomnd8r21tbbvnqv1lnvg.apps.googleusercontent.com',
+    androidClientId:
+        '357926714471-lrqvhles0p7203h9sb5lbkqjf119jl4e.apps.googleusercontent.com',
+    iosClientId:
+        '357926714471-v05o1gd30n2vomnd8r21tbbvnqv1lnvg.apps.googleusercontent.com',
     iosBundleId: 'com.mooner92.flutterApplication1',
   );
 
@@ -78,8 +80,10 @@ class DefaultFirebaseOptions {
     messagingSenderId: '357926714471',
     projectId: 'flutter-ver1',
     storageBucket: 'flutter-ver1.appspot.com',
-    androidClientId: '357926714471-lrqvhles0p7203h9sb5lbkqjf119jl4e.apps.googleusercontent.com',
-    iosClientId: '357926714471-v05o1gd30n2vomnd8r21tbbvnqv1lnvg.apps.googleusercontent.com',
+    androidClientId:
+        '357926714471-lrqvhles0p7203h9sb5lbkqjf119jl4e.apps.googleusercontent.com',
+    iosClientId:
+        '357926714471-v05o1gd30n2vomnd8r21tbbvnqv1lnvg.apps.googleusercontent.com',
     iosBundleId: 'com.mooner92.flutterApplication1',
   );
 }
